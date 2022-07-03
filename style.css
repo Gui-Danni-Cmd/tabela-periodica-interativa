@@ -21,6 +21,10 @@ body {
   pointer-events: none;
 }
 
+h1{
+  color: #dee955;
+  font-family: sans-serif;
+}
 .periodic-table {
   display: grid;
   grid-gap: 5px;
